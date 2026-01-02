@@ -1,0 +1,37 @@
+.cardOne{
+    background-color: blueviolet !important;
+    color: white !important;
+}
+.bodyContent{
+    margin-top: 20px;
+    padding: 50px;
+}
+
+.profile-img {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%; 
+  object-fit: cover;
+}
+
+.cardTwo{
+    background-color: grey !important;
+}
+
+.cardThree{
+    background-color: whitesmoke !important;
+}
+
+.cardFour{
+    background-color: black !important;
+    color: white !important;
+}
+
+.cardFive{
+    background-color: whitesmoke !important;
+}
+
+.card {
+  height: 100% !important;
+}
+
